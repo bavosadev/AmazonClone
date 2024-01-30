@@ -656,5 +656,31 @@ const products = [
       "apparel",
       "mens"
     ]
+  }, 
+  {
+    id: 'backpack',
+    image: 'images/products/backpack.jpg',
+    name: 'Backpack Large All Black',
+    rating: {
+      stars: 5,
+      count: 93
+    },
+    priceCents: 11500,
+    keywords: [
+      'backpack'
+    ]
+  }, 
+  {
+    id: 'umbrella',
+    image: 'images/products/umbrella.jpg',
+    name: 'Umbrella',
+    rating: {
+      stars: 3.5,
+      count: 15
+    },
+    priceCents: 2900,
+    keywords: [
+      'umbrella'
+    ]
   }
 ];
